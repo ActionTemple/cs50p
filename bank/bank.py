@@ -2,6 +2,7 @@
 
 # Bank
 # Andrew Waddington
+# Test commit from VS code
 
 greeting = input("Greeting: ").lower().strip()
 
