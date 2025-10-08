@@ -1,0 +1,78 @@
+
+
+{
+    "hatch": {
+        "location": -940,
+        "keyword": "open",
+        "item": "crowbar",
+        "exits": ["east"],
+        "message_true": "There is an open hatch leading into the moonlit carpark.",
+        "message_action": "You smash open the hatch revealing an exit into the moonlit carpark."
+    },
+
+    "trapdoor": {
+        "location": -349,
+        "keyword": "open",
+        "item": "crowbar",
+        "exits": ["down"],
+        "message_true": "There is an open trapdoor leading into the darkness.",
+        "message_action": "You pry open the trapdoor revealing an exit down into the blackness."
+    },
+    "door": {
+        "location": 451,
+        "keyword": "open",
+        "item": "key",
+        "exits": ["west"],
+
+        "message_true": "There is an exit to the west through an unlocked door.",
+        "message_action": "You unlock the door.",
+        "state": "False"
+    },
+    "cell": {
+        "location": 351,
+        "keyword": "open",
+        "item": "key",
+        "exits": ["east"],
+
+        "message_true": "The door to Fat Bob's cell is ajar.",
+        "message_action": "You unlock Fat Bob's cell. Through the bars you see the shadow of your old pal in the half-light.",
+        "state": "False"
+    },
+    "bob": {
+        "location": 352,
+        "talisman": "collar",
+        "message_talisman": "'Alright matey', Fat Bob says, grinning obnoxiously; 'I'm off'. Fat Bob leaves quickly and silently.",
+        "message_attack": "Grinning menacingly, Fat Bob turns, blocking the space between you and the doorway. 'You stupid b*stard', he says, as he grabs your throat in an attempt to strangle you. You are not going quietly into the night, however. \nThe noise caused by the commotion alerts the guards."
+    },
+    "guard": {
+        "location": 349,
+        "keyword": "kill",
+        "item": "torch",
+        "exits": ["east"],
+        "pockets": {"key": "A heavy iron key. It is quite worn, a bit rusty and about four inches long. It appears to be a skeleton key.", "phone": "A Nokia 3310. It looks a lot like the phone that was in your pocket when you were arrested. The battery is dead."},
+        "message_attack": "The guard turns round. Rising from his chair he lunges towards you with a right hook and a surprise jab. The last thing you feel is your legs giving way as you fall to the ground.",
+        "message_true": "The guard's body lays slumped over the table forming a pool of rapidly conjealing blood. Laughter from a banal gameshow and the flicker of an old TV tube ring out across the room.",
+        "message_action": "You swiftly strike the guard with the sturdy metal Maglite, killing him more or less instantly.",
+        "state": "False"
+    },
+    "ivan": {
+        "location": -551,
+        "keyword": "give",
+        "item": "fish",
+        "item2": "shuba",
+        "message_help_you": "Spacibo bolshoi! Fish make base of klassik salat. I can charge for you phone. Now I am just needing one more thing for Fat Bob's last meal.",
+        "message_help_true": "Ivan the Terrible Chef is pottering about the kitchen, mumbling and grumbling incoherently about how he is sometimes forced to be picking suspect mushrooms off the passage walls to use in the prison food. ‘Things are so bad here’, he rants. He would like to put a spanner in the spokes of the wheels of ‘these chiefs in tower’.",
+        "message_give_to_you": "‘Прекрасный! Now I can make klassik salat “Сельдь под шубой”. Fat Bob will be delighted! Take crowbar, it’s my gift to you. Be putting it in spokes of chiefs now.’\nIvan gives you a crowbar.",
+        "message_give_true": "Ivan the Terrible Chef is pottering about the kitchen in a seemingly cheerful mood - all the better for meeting you!",
+        "pockets": {"crowbar": "A heavy, iron crowbar. About three feet long. Good for prying lids and hatches."}
+    },
+    "warden":  {
+        "location": 250,
+        "keyword": "search",
+        "message_action": "You rifle through the dead warden's pockets, yielding various items.",
+        "pockets": {"wallet": "It is a worn-out, imitation leather wallet, bulging with fifties. There must be about thirty thousand pounds here.", "lighter": "It is a bronze Zippo lighter engraved with some dice, a skull, and a curvy lady."}
+
+    }
+
+
+}

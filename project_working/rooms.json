@@ -1,0 +1,54 @@
+
+
+{
+  "24": {
+    "description": "You are in a cold stone cell. The door is made of a solid hardwood, probably oak, which looks like it has been there for many centuries. The floor is more or less bare",
+    "objects": ["torch"],
+    "exits": ["n"]
+  },
+  "33": {
+    "description": "This is the corner office where the guards keep watch",
+    "objects": ["cheese"],
+    "exits": ["n", "e"]
+  },
+  "34": {
+    "description": "You are at the end of a narrow stone passageway. There is an exit to the east, along the corridor, to the south, into your jail cell, and to the west into an office",
+    "objects": [],
+    "exits": ["s", "e", "w"]
+  },
+  "35": {
+    "description": "You are at the corner of a narrow stone passageway.",
+    "objects": [],
+    "exits": ["n", "w"]
+  },
+  "43": {
+    "description": "You are at the end of a narrow stone passageway",
+    "objects": [],
+    "exits": ["n", "s"]
+  },
+  "44": {
+    "description": "You are in a dank store room",
+    "objects": [],
+    "exits": ["e"]
+  },
+  "45": {
+    "description": "You are in a narrow stone passageway.",
+    "objects": [],
+    "exits": ["n", "s", "w"]
+  },
+  "53": {
+    "description": "You are at the corner of a narrow stone passageway.",
+    "objects": [],
+    "exits": ["s", "e"]
+  },
+  "54": {
+    "description": "You are in a narrow stone passageway.",
+    "objects": [],
+    "exits": ["w", "e"]
+  },
+  "55": {
+    "description": "You are at the corner of a narrow stone passageway.",
+    "objects": [],
+    "exits": ["w", "s"]
+  }
+}

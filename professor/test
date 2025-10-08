@@ -1,0 +1,25 @@
+
+
+
+# Pass variables between functions
+
+# Pass variables between functions
+
+def main():
+    a = int(input("Input: "))  # Get input
+    print(f"Initial input: {a}")
+
+    b = middle(a)  # Pass `a` to middle, store the returned `b`
+    c = ender(b)   # Pass `b` to ender, store the returned `c`
+
+    print(f"Final output: {c}")
+
+def middle(a):
+    b = a + 1
+    return b  # Return `b` to be used in `main`
+
+def ender(b):
+    c = b + 1
+    return c  # Return `c` to be used in `main`
+
+main()

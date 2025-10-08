@@ -1,0 +1,425 @@
+
+
+{
+  "-1648": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "east"]
+  },
+  "-1647": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["east", "west"]
+  },
+  "-1646": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["east", "west"]
+  },
+  "-1645": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "west"]
+  },
+  "-1642": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "east"]
+  },
+  "-1641": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "west"]
+  },
+  "-1548": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "east"]
+  },
+  "-1547": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["west", "northeast"]
+  },
+  "-1546": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "northeast"]
+  },
+  "-1545": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "east"]
+  },
+  "-1544": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "west"]
+  },
+  "-1543": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "east"]
+  },
+  "-1542": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "west"]
+  },
+  "-1541": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "northwest"]
+  },
+  "-1540": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "east"]
+  },
+  "-1539": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "west"]
+  },
+  "-1446": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "east", "northeast", "southwest"]
+  },
+  "-1445": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["west", "southwest"]
+  },
+  "-1444": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "east"]
+  },
+  "-1443": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "west"]
+  },
+  "-1442": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "southeast"]
+  },
+  "-1440": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "northwest"]
+  },
+  "-1439": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "south"]
+  },
+  "-1349": {
+    "description": "The trapdoor slams shut above your head.\nYou are in the entrance to the ancient catacombs; a network of confined tunnels used by brigands and smugglers in previous ages. It is currently used as the prison’s sewerage system.",
+    "exits": ["east"]
+  },
+  "-1348": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "west"]
+  },
+  "-1347": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "east"]
+  },
+  "-1346": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "west"]
+  },
+  "-1345": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["northeast", "southwest"]
+  },
+  "-1344": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["east"]
+  },
+  "-1343": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "west"]
+  },
+  "-1342": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "east"]
+  },
+  "-1341": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["west", "southeast"]
+  },
+  "-1340": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "east"]
+  },
+  "-1339": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "west"]
+  },
+  "-1248": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "east"]
+  },
+  "-1247": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "west"]
+  },
+  "-1246": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "northeast"]
+  },
+  "-1244": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["northeast", "southwest"]
+  },
+  "-1243": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "south"]
+  },
+  "-1242": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "east", "northwest"]
+  },
+  "-1241": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "west"]
+  },
+  "-1240": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "east"]
+  },
+  "-1239": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "west"]
+  },
+  "-1145": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["east", "southwest"]
+  },
+  "-1144": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["east", "west"]
+  },
+  "-1143": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "south", "east", "west", "northeast", "southeast", "northwest", "southwest"]
+  },
+    "-1142": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "east", "west"]
+  },
+  "-1141": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "west"]
+  },
+  "-1140": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "east"]
+  },
+  "-1139": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "west"]
+  },
+  "-1046": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "east"]
+  },
+    "-1045": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["east", "west"]
+  },
+  "-1044": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "west", "southeast"]
+  },
+  "-1043": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "northeast"]
+  },
+  "-1042": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["east", "southwest"]
+  },
+  "-1041": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "west", "northwest"]
+  },
+    "-1040": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "east"]
+  },
+  "-1039": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["west", "northwest"]
+  },
+  "-947": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["east"]
+  },
+  "-946": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "east", "west"]
+  },
+  "-945": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "west"]
+  },
+    "-944": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "east"]
+  },
+  "-943": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "west"]
+  },
+  "-942": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["southeast", "southwest", "northwest"]
+  },
+  "-941": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["north", "south", "east"]
+  },
+  "-940": {
+    "description": "You are in the ancient catacombs.",
+    "message": "You see the moonlight streaming through the holes of a hatch. Try as you might, you can't open it with your hands.",
+    "exits": ["west", "southeast"]
+  },
+    "-939": {
+    "description": "You are in the visitors' car park.",
+    "exits": []
+  },
+  "-845": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "east"]
+  },
+  "-844": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["east", "west"]
+  },
+  "-843": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south", "east", "west", "southeast"]
+  },
+  "-842": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["west"]
+  },
+  "-841": {
+    "description": "You are in the ancient catacombs.",
+    "exits": ["south"]
+  },
+  "-349": {
+    "description": "You are in a crawlspace at the base of the watchtower.",
+    "message": "There is a trapdoor leading to God-knows-where. It's shut tight; no point trying to open it with your bare hands.",
+    "objects": {},
+    "exits": ["up"]
+  },
+  "-551": {
+    "description": "Welcome to Hell's Kitchen. The furnaces are burning in preparation for tomorrow's meal.",
+    "message": "Ivan the Terrible Chef stands before the marble alter sharpening his knives... 'Ah... but I have only this beetroot. Blyat...'\nYou notice an old phone charger and a couple of dumb phones sitting on the shelf across the room.",
+    "exits": ["east"]
+  },
+  "-550": {
+    "description": "It's the porch to Hell's Kitchen. You had better take your shoes off. From the floor to the ceiling you see piles and piles of rotting beetroot.",
+    "exits": ["west", "up"]
+  },
+  "250": {
+    "description": "You are in a cold stone cell. The door is made of a solid hardwood, probably oak, which looks like it has been there for many centuries. The floor is more or less bare, except for the body of the recently deceased warden.",
+    "objects": {"torch": "It is a heavy, aluminium Maglite. Could be considered an offensive weapon."},
+    "exits": ["north"]
+  },
+  "349": {
+    "description": "This is the corner office where the guards keep watch.",
+    "message": "There is a prison guard on night duty watching TV with his back to the door.",
+    "exits": ["north"]
+  },
+  "350": {
+    "description": "You are at the end of a narrow stone passageway. The walls are wet with rising damp. Moss and mushrooms grow, making the floor slippery.",
+    "objects": {},
+    "exits": ["south", "east"]
+  },
+  "351": {
+    "description": "You are at the corner of a narrow stone passageway. The smell seems worse here.",
+    "message": "Fat Bob softly whispers to you through his cell door - \n'Hey there matey... are you going to help a friend...?'",
+    "objects": {},
+    "exits": ["north", "west"]
+  },
+  "352": {
+    "description": "You are in Fat Bob's cell. There seems to be a low-key mining operation here.",
+    "objects": {},
+    "exits": ["northeast", "west"]
+  },
+  "453": {
+    "description": "You are on your knees in Fat Bob's cramped, dirty tunnel.",
+    "objects": {},
+    "exits": ["northeast", "southwest"]
+  },
+  "554": {
+    "description": "You find yourself at the north-eastern end of Fat Bob's tunnel.",
+    "objects": {"rucksack": "It's filthy as hell, but it could probably take nine or ten fair-sized objects."},
+    "exits": ["southwest"]
+  },
+
+  "449": {
+    "description": "You are at the end of the narrow stone passageway.",
+    "objects": {},
+    "exits": ["north", "south"]
+  },
+  "450": {
+    "description": "You are in a dank store room. There is a musty smell. It's not a great place for storing food. You can see a ladder peeping out from a hole in the floor.",
+    "objects": {"fish": "It is a packet containing one large red herring. Asda's own brand."},
+    "exits": ["east", "down"]
+  },
+  "451": {
+    "description": "You are in a narrow stone passageway.",
+    "message": "There is a locked door here.",
+    "objects": {},
+    "exits": ["north", "south"]
+  },
+  "549": {
+    "description": "You are at the corner of a narrow stone passageway.",
+    "objects": {},
+    "exits": ["south", "east"]
+  },
+  "550": {
+    "description": "You are in a narrow stone passageway.",
+    "objects": {},
+    "exits": ["west", "east"]
+  },
+  "551": {
+    "description": "You are at the corner of a narrow stone passageway.",
+    "objects": {},
+    "exits": ["west", "south", "north"]
+  },
+  "651": {
+    "description": "You are at the base of the watchtower. A stone spiral staircase winds upwards and downwards in an anti-clockwise direction.",
+    "objects": {},
+    "exits": ["south", "up", "down"]
+  },
+  "1651": {
+    "description": "You are in a small apartment, halfway up the watchtower. Decor is in the Regency style. \nIt is probably one of the few comfortable places in this hell hole.",
+    "objects": {"shuba": "It's a luxurious fur coat. It would be perfect for a wealthy Russian woman."},
+    "exits": ["up", "down"]
+  },
+  "2651": {
+    "description": "You are at the top of the watchtower. You can see dense forest stretching for miles in all directions.",
+    "message": "Looking down and to the northeast, you see what appears to be a visitor car park.",
+    "objects": {"collar": "It is a cervical collar for neck support, made of a sturdy, plastic-like material."},
+    "exits": ["down"]
+  },
+  "989": {
+    "description": "Advice:\n\n* Draw a map.\n* If you find an item, examine it.\n* If someone is dead, search them.\n* If you don't know what something is, google it.\n* If you find your way into a maze, draw a map!!!\n* You can type 'look' to repeat the description of a location.\n* Happy adventuring!"
+  },
+  "990": {
+    "description": "You get in the car. The conversation turns immediately towards payment.\nEric drives off leaving you face down in the carpark eating his fumes and dust.\n\nYou find yourself in the centre of the searchlight. Guards appear as if from nowhere. You are arrested and taken to a small room for a big beating."
+  },
+  "991": {
+    "description": "\nYou get in the car. Eric says nothing. He just drives.\nTime passes and you grow more relaxed as you contemplate your next move - to head somewhere sunny where the beer is cheap and rules are optional."
+  },
+  "992": {
+    "description":"'Alright my man! Long time no see!...\nI’ve got a big bag of mitsies - just like they used to be in the ‘90s, and half a sheet of Super Mario blotters. I tell you man... this shit... you only need one. But I can do minimum ten....just for you.'\nAs nice as that sounds, it is not what you need at this moment. You end the call politely."
+  },
+  "993": {
+    "description":"Mr W. Eric Tribald esq., known to most as Fast Eric, is, among other things, the country’s leading getaway car driver. He can also arrange decent quality counterfeit IDs, licenses, and passports. The call goes well. You agree on a package, and a price. He will meet you in the prison’s visitor car park shortly."
+  },
+  "994": {
+    "description":"Big Bev picks up. You can almost hear her face going white. 'Aren’t you s’posed ta be dead?'. You tell her that actually your execution is tomorrow morning. She hangs up."
+  },
+  "995": {
+    "description": "The call goes through to voicemail:\nYou hear Fat Bob’s voice cackle; 'If you are hearing this message, I’m either nicked, or dead, or both...'"
+  },
+  "996": {
+    "description": "\nDarkness... oblivion... dreamless night.\n\nHazy, throbbing, red awareness comes over you, gradually at first.\nYou see the shadows of cloaked officials in a makeshift courtroom. It reminds you of Plato’s allegory of the cave.\nOne word is spoken. Heads nod. The hammer falls with a resounding echo. And then... nothingness. Deep oblivion.\n\nMuch time seems to have passed, and you become aware of your tender, swollen, face making a pillow of the cold, stone floor."
+  },
+  "997": {
+    "description": "\nYou hear the footsteps of a warden approaching your cell.\nA certain clarity comes over you. The stakes being infinite, potential losses now confined to the religious, there is no limit to the gravity of your actions. Feeling as though you are a spectator watching yourself in some grisly drama, the door opens, you slide your right foot across the warden's path, tripping him up while taking his head in a vice grip and twisting his neck. \nYou are on the verge of seizing your freedom.\n"
+  },
+  "998": {
+    "description": "\nTHE BIG HOUSE\n\nThis is a text adventure in the style of Zork and Colossal Cave Adventure. The object of the game is to make your way through the environment, in this case a prison, opening up areas of the map, until the player reaches their goal, which is to escape.\n\nTo navigate the environment the player must use the eight compass directions; for example: \n\nGO NORTH or GO SOUTHWEST\n\nWe can abbreviate these commands to NORTH, SOUTHWEST, or even N and SW.\n\nThroughout the game you will find obstacles that need to be passed, such as locked doors, and useful objects such as keys. It may be necessary to kill enemies. Here is a full list of commands:\n\nDirections:\n\n(GO) NORTH, NORTHEAST, EAST, SOUTHEAST, SOUTH, SOUTHWEST, WEST, NORTHWEST\n(GO) UP, DOWN\n\nCommands:\n\nLOOK: Gives a description of the place you are in\nINVENTORY or INV: Gives a list of objects you are carrying\nHELP: Some advice is given\nQUIT: Takes you back to the main menu\nGET <item>; e.g. GET TORCH; You pick up the torch\nDROP <item>; e.g. DROP CHEESE; You drop the cheese\nEXAMINE <item>; e.g. EXAMINE KNIFE; This gives you a description of the item\nSEARCH <dead NPC>; e.g. SEARCH POLICEMAN; You search the pockets of the dead non-player character\nCALL <contact>; e.g. CALL BOB or CALL FAT BOB; If you have a phone, you might be able to do this\nOPEN <object> WITH <item>; e.g. OPEN CHEST WITH KEY; This opens the object\nKILL <enemy> WITH <item>; e.g. KILL SNAKE WITH AXE; Well it does what it says on the tin, so to speak...\n"
+  },
+  "999": {
+    "description": "Ouspensky said that when a man is in prison, if he is a reasonable man, his only goal is to escape. \n\nWelcome to The Big House. \n\nLong have you been a guest of His Royal Majesty, F------ XII. You are to be executed by rope at dawn, in six hours' time."
+  }
+}
