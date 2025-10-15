@@ -89,13 +89,13 @@ class Room:
         #remove items from interact's pockets and put them into room inventory
         # print message_action
         if interacts[interact].pockets:
-            print (interacts[interact].message_action)
+            print (text_wrapper(interacts[interact].message_action))
 
             rooms[player.current_room].objects.update(interacts[interact].pockets)
             interacts[interact].pockets = {}
 
             objects = p.a(p.join(list(rooms[player.current_room].objects.keys())))
-            print (f"There is {objects} here.")
+            print (f"There is now {objects} here.")
 
         else:
             print(f"You search the {interact}, yielding nothing.")
@@ -160,8 +160,7 @@ def load_interacts_from_json(filename):
                 message_help_true = details.get("message_help_true"),
                 message_give_to_you = details.get("message_give_to_you"),
                 message_give_true = details.get("message_give_true"),
-                state = False,
-                state_help_you = False
+                
             )
         return interacts
 
@@ -556,7 +555,7 @@ def commands(b):
                 elif keyword == "examine":
                     rooms[player.current_room].examine(item.lstrip())
                 elif keyword == "search":   #This mess to sort out
-                 
+
                     #print(f"Interact in room: {rooms[250].interacts}")
                     if item.strip() == interact_in_current_room():
                         rooms[player.current_room].search(item.lstrip()) #in this case "item" refers to an interact
@@ -650,7 +649,7 @@ def commands(b):
             else:
                 print("Maybe find your phone?")
         elif player.how_many_calls > 0:
-            print(text_wrapper("You are out of credit. You can top up your balance by calling Vodaphone on 0333 3040 191. Calls cost 39p a minute."))
+            print(text_wrapper("You are out of credit. You can top up your balance by calling Vodafone on 0333 3040 191. Calls cost 39p a minute."))
 
 
     elif one_word_commands:
